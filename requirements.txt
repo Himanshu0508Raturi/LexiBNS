@@ -1,0 +1,14 @@
+PyMuPDF
+huggingface_hub
+pymongo
+python-dotenv
+sentence-transformers
+tqdm
+ipykernel
+langchain-text-splitters
+langchain
+langgraph
+langchain-community
+langchain-groq
+fastapi[all]
+uvicorn[standard]
